@@ -1,8 +1,8 @@
 class DockerAi < Formula
   desc "An AI-powered CLI for Docker"
   homepage "https://github.com/Aj7Ay/docker-ai"
-  url "https://github.com/Aj7Ay/docker-ai/archive/refs/tags/v0.2.5.tar.gz"
-  sha256 "531ed5cc8a2624ddfb0e6fad46bb5139cb1e030f6fe38ac290f30606fcd87a1f"
+  url "https://github.com/Aj7Ay/docker-ai/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "31723d3f38799d88584733b1cc157b90cb1d9ac31ef5a27bc61da37f5480183a"
   license "Apache-2.0"
 
   depends_on "go" => :build
